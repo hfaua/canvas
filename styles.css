@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'TurboPascalFont';
+	src: url('fonts/Turbo Pascal Font.ttf');
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+img {
+	display: none;
+}
+
+#game-window {
+	display: block;
+	margin: 0 auto;
+}
